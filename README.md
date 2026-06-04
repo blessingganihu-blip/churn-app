@@ -27,4 +27,4 @@ proactive retention measures.
 - Customers active within 7 days had only a 14.8% churn rate
 - The dataset was perfectly balanced (50/50 churn vs non-churn)
 
-## Project Structure# churn-app
+
