@@ -79,7 +79,7 @@ st.markdown("---")
 st.markdown("### 🌍 Location & Device")
 col10, col11 = st.columns(2)
 with col10:
-    region = st.selectbox("Region", ["North", "South", "East", "West"])
+    region = st.selectbox("Region", ["Africa", "Asia", "Europe", "North America", "Oceania", "North America"])
 with col11:
     device = st.selectbox("Device", ["Mobile", "Tablet", "Smart TV", "Laptop"])
 
